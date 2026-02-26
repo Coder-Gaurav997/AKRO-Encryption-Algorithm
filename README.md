@@ -1,9 +1,9 @@
-🔐 **AKRO Encryption**
+# AKRO Encryption
 
 AKRO (ASCII Keyed Reversal Obfuscation) is a lightweight Python-based encryption and obfuscation algorithm.
 It transforms readable text into encoded data using ASCII conversion, a repeating key cipher, random junk insertion, and sequence reversal. The process is fully reversible using the provided decryption logic.
 
-✨ **Features**
+## Features
 
 * ASCII-based encoding
 * Repeating key encryption
@@ -11,7 +11,7 @@ It transforms readable text into encoded data using ASCII conversion, a repeatin
 * Reversible encryption/decryption
 * Simple and modular design
 
-⚙️ **How It Works**
+## How It Works
 
 Encryption steps:
 
@@ -22,12 +22,12 @@ Encryption steps:
 
 Decryption performs these steps in reverse order.
 
-🚀 **Usage**
+## Usage
 
 Run:
 python encrypt.py
 python decrypt.py
 
-📘 **Note**
+## Note
 
 This project is for educational purposes and learning encryption concepts. It is not intended for real-world cryptographic security.
